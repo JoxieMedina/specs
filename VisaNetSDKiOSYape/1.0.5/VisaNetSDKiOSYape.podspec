@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   s.license           = { :type => 'MIT', :file => 'LICENSE' }
 
   s.platform          = :ios
-  s.source            = { :http => 'https://dl.dropboxusercontent.com/s/q9lu2ei1tomkt0e/VisaNetSDKYape105.zip'
+  s.source            = { :http => 'https://dl.dropboxusercontent.com/s/ymvyvknp0zg44zd/VisaNetSDKYape105.zip'
 }
 
   s.ios.deployment_target = '9.0'
