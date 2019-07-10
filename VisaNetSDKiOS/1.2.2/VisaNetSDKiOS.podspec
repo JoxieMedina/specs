@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   s.license           = { :type => 'MIT', :file => 'LICENSE' }
 
   s.platform          = :ios
-  s.source            = { :http => 'https://dl.dropboxusercontent.com/s/s08heolpdp9gke1/VisaNetSDKiOS122.zip'}
+  s.source            = { :http => 'https://dl.dropboxusercontent.com/s/wpokk8udouzkj6v/VisaNetSDKiOS122.zip'}
 
   s.ios.deployment_target = '9.0'
   s.ios.vendored_frameworks = 'VisaNetSDK.framework'
